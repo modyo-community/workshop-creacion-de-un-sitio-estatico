@@ -3,7 +3,7 @@ Aprende a convertir un sitio basado en HTML a la arquitectura de Modyo.
 
 Descarga los archivos de este repositorio y sigue los pasos detallados en esta serie de videos:
 
-https://www.youtube.com/playlist?list=PLJ5stawPo-R6ccCd97ZwpmziEcdo1QfGj
+[![Adaptación de un sitio estático](https://img.youtube.com/vi/s6FkhgX6FFw/0.jpg)](https://www.youtube.com/playlist?list=PLJ5stawPo-R6ccCd97ZwpmziEcdo1QfGj)
 
 
 ## Pre requisitos
