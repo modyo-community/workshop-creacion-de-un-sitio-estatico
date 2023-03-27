@@ -139,6 +139,7 @@ h5 {
 }
 .box-financial img {
   height: 60px;
+  width: auto;
 }
 .box-financial h4 {
   color: #094279;
